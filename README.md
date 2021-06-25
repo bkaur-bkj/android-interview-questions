@@ -32,6 +32,7 @@
 * [Other Topics](#other-topics)
 
 ### Core Android
+SDE 1 SDE2 separate questions
 
 #### Base
 
