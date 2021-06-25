@@ -33,6 +33,7 @@
 
 ### Core Android
 SDE 1 SDE2 separate questions
+https://www.journaldev.com/10929/android-interview-questions-and-answers  
 
 #### Base
 
